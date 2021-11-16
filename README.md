@@ -1,4 +1,4 @@
-#PSQL Генераторы
+# PSQL Генераторы
 - b_categories
 - b_chat_settings
 - b_subcategories
